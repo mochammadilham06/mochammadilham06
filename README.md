@@ -27,13 +27,13 @@
 
 <h3>Lets <b>Connect</b>😁</h3>
 <p style="block">
-<a href="www.linkedin.com/in/mochilham1006" target="blank">
+<a href="[www.linkedin.com/in/mochilham1006](https://www.linkedin.com/in/mochilham1006/)" target="blank">
 <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammadilham06" width="30"/>
 </a>
 <a href="https://www.instagram.com/moch.ilham10/" target="blank">
 <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mochammadilham06" width="30" style="margin-top: 6px;"/>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mochammadilham06" width="30" style="margin-top: 20px;"/>
 
 </p>
 
