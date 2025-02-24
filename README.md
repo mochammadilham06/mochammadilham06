@@ -1,5 +1,6 @@
- <h1 align="center">Hi..... 👋 I'm Ilham</h1>
- <h3 align="center">✨Front end <b>Developer</b>✨</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=998&color=02D7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%99%8C;I'm+Mochammad+Ilham+Maulana%F0%9F%98%81;I'm+a+Frontend+Developer%F0%9F%A4%96" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <blockquote style="font-weight:500" cite="—Cory House">“Code is like <span style="color: rgb(0, 122, 192)">humor</span>. When you have to explain it, <span style="color: rgb(0, 122, 192")>it's bad.</span>”
@@ -24,6 +25,31 @@
   	<img src="https://profile-counter.glitch.me/mochammadilham06/count.svg" />
 	</a>
 </div>
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,java,php,laravel,go"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,bootstrap,html,css,js,ts,vue"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+  
+</table>
 
 <h3>Lets <b>Connect</b>😁</h3>
 <p style="block">
