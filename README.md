@@ -1,5 +1,6 @@
+<h1 align="center">Hi..... 👋 I'm Ilham</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=998&color=02D7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%99%8C;I'm+Mochammad+Ilham+Maulana%F0%9F%98%81;I'm+a+Frontend+Developer%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=998&color=FA8B00&background=FFD56400&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%99%8C;I'm+a+Frontend+Developer;Also+as+a+Fullstack+Developer+too" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
